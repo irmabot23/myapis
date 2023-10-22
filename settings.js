@@ -21,7 +21,7 @@ require('dotenv').config()
 
 creator = 'IRMABOT23' // Nama 
 port = 8080 //port host
-LimitApikey = 1000 // Limit Apikey default
+LimitApikey = 10000 // Limit Apikey default
 
 //___________ ┏  Database Mongodb Setting  ┓ ___________\\
 
